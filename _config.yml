@@ -9,7 +9,7 @@ logo_url: svg/min/ADC-Title.svg
 hero: 
     hero_img: hero.jpeg
     hero_title: American Dental Clinic
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_description: Serving Cambodia since 2005.
 
 # Contact form
 api_token: # Enter API token here
